@@ -1,4 +1,3 @@
-// Copyright 2017 Baidu Inc. All Rights Reserved.
 // Author: AllinGo (tanhp@outlook.com)
 //
 // Hadoop MR using C++
